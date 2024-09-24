@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\01d2797d75a64013a72b09d7de3efccb.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\01d2797d75a64013a72b09d7de3efccb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\1a5094f2a36f4b1c8dd8feac7406b589.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\1a5094f2a36f4b1c8dd8feac7406b589.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\366704af5514486a9623c2224859d041.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\366704af5514486a9623c2224859d041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\804e87cc30a64e55972a32fff5c71ee9.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\804e87cc30a64e55972a32fff5c71ee9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\8753aa6434aa4e21b41cc09246b85b19.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\8753aa6434aa4e21b41cc09246b85b19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\b083282a68e84fd6a0be7d052732312c.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\b083282a68e84fd6a0be7d052732312c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\d375dd0e0b574cdb87f413b51196e4b1.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\d375dd0e0b574cdb87f413b51196e4b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\d3a5caa983c146c5b826b12d5b478fb5.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\d3a5caa983c146c5b826b12d5b478fb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SchoolMangment\\API\\wwwroot\\Documents\\Img\\ecc484606ed244c7879253c3e6bd8c01.jpg",
+      "PackagePath": "staticwebassets\\Documents\\Img\\ecc484606ed244c7879253c3e6bd8c01.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

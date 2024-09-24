@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SchoolMangment\Applicition\bin\Debug\net8.0\Applicition.deps.json
+C:\Users\HP\source\repos\SchoolMangment\Applicition\bin\Debug\net8.0\Applicition.dll
+C:\Users\HP\source\repos\SchoolMangment\Applicition\bin\Debug\net8.0\Applicition.pdb
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.AssemblyInfo.cs
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.dll
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\refint\Applicition.dll
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\Applicition.pdb
+C:\Users\HP\source\repos\SchoolMangment\Applicition\obj\Debug\net8.0\ref\Applicition.dll

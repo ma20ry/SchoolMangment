@@ -1,0 +1,14 @@
+﻿@API_HostAddress = https://localhost:7292
+
+POST {{API_HostAddress}}/api/class/Create
+Content-Type: application/json
+
+{
+  "nameClass": "string",
+  "numberofStudents": 0,
+  "numberofSubjects": 0,
+  "startdate": "2024-09-23",
+  "enddate": "2024-09-23"
+}
+
+###
